@@ -8,8 +8,8 @@
  * @donate https://www.paypal.me/MircoWittrien
  * @patreon https://www.patreon.com/MircoWittrien
  * @website https://mwittrien.github.io/
- * @source https://github.com/NotCapengeR/ShowHiddenChannelsReturns/blob/master/ShowHiddenChannels.plugin.js
- * @updateUrl https://raw.githubusercontent.com/NotCapengeR/ShowHiddenChannelsReturns/master/ShowHiddenChannels.plugin.js
+ * @source https://github.com/smoorc0/ShowHiddenChannelsReturns/blob/master/ShowHiddenChannelsReturns.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/smoorc0/ShowHiddenChannelsReturns/master/ShowHiddenChannelsReturns.plugin.js
  */
 
  module.exports = (_ => {
